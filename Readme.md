@@ -12,7 +12,7 @@ A practical implementation of Retrieval-Augmented Generation (RAG) system with c
 
 ```bash
 git clone https://github.com/Tokir224/Practical.git
-cd RAG-Practical
+cd Practical
 ```
 
 ### 2. Create Virtual Environment
