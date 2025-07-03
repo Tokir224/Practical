@@ -1,0 +1,138 @@
+[
+    {
+        "question": "What does Medicare Part A cover?",
+        "answer_snippet": "Inpatient care in hospitals, Skilled nursing facility care, Hospice care, Home health care"
+    },
+    {
+        "question": "What services are included in Medicare Part B?",
+        "answer_snippet": "Services from doctors and other health care providers, Outpatient care, Home health care, Durable medical equipment, Many preventive services"
+    },
+    {
+        "question": "What is Medicare Part D?",
+        "answer_snippet": "Helps cover the cost of prescription drugs (including many recommended shots or vaccines)"
+    },
+    {
+        "question": "What are the two main ways to get Medicare coverage?",
+        "answer_snippet": "Original Medicare and Medicare Advantage (also known as Part C)"
+    },
+    {
+        "question": "What does Original Medicare include?",
+        "answer_snippet": "Medicare Part A (Hospital Insurance) and Part B (Medical Insurance)"
+    },
+    {
+        "question": "Can you add prescription coverage to Original Medicare?",
+        "answer_snippet": "You can join a separate Medicare drug plan to get Medicare drug coverage (Part D)"
+    },
+    {
+        "question": "What is Medicare Advantage?",
+        "answer_snippet": "A Medicare-approved plan from a private company that offers an alternative to Original Medicare, usually bundling Part A, Part B, and Part D"
+    },
+    {
+        "question": "Can you use any doctor with Medicare Advantage?",
+        "answer_snippet": "In many cases, you can only use doctors and other providers who are in the plan’s network"
+    },
+    {
+        "question": "Does Original Medicare require referrals to see a specialist?",
+        "answer_snippet": "In most cases, you don’t need a referral to use a specialist"
+    },
+    {
+        "question": "Is there an out-of-pocket maximum with Original Medicare?",
+        "answer_snippet": "There’s no yearly limit on what you pay out of pocket, unless you have supplemental coverage"
+    },
+    {
+        "question": "What is the Initial Enrollment Period for Medicare Part A and Part B?",
+        "answer_snippet": "The 7-month period that begins 3 months before the month you turn 65 and ends 3 months after, with adjustments if your birthday is on the first of the month."
+    },
+    {
+        "question": "When does Medicare coverage start if I sign up during my Initial Enrollment Period?",
+        "answer_snippet": "If you sign up in the first 3 months, coverage starts the first day of your birthday month; if your birthday is on the 1st, it starts the previous month."
+    },
+    {
+        "question": "What is a Special Enrollment Period for Medicare?",
+        "answer_snippet": "It allows you to sign up after your Initial Enrollment Period if you had group health coverage based on current employment."
+    },
+    {
+        "question": "When does coverage start if I enroll during a Special Enrollment Period?",
+        "answer_snippet": "Coverage generally starts the first day of the month after you sign up."
+    },
+    {
+        "question": "Does COBRA count for a Special Enrollment Period?",
+        "answer_snippet": "No, COBRA isn’t considered coverage based on current employment and doesn’t qualify you for a Special Enrollment Period."
+    },
+    {
+        "question": "What are some exceptional situations that allow Special Enrollment?",
+        "answer_snippet": "Natural disasters, incarceration, health plan errors, loss of Medicaid, and other Medicare-approved circumstances."
+    },
+    {
+        "question": "What is the General Enrollment Period for Medicare?",
+        "answer_snippet": "January 1–March 31 each year for those who missed Initial and don’t qualify for Special Enrollment; coverage starts the month after sign-up."
+    },
+    {
+        "question": "Should I get Medicare Part B if I have employer or union health coverage?",
+        "answer_snippet": "You may delay Part B if you have coverage through current employment without penalty; verify with your benefits administrator."
+    },
+    {
+        "question": "What types of coverage do not count as current employment-based coverage?",
+        "answer_snippet": "COBRA, retiree plans, VA coverage, individual marketplace plans, and coverage from severance or layoffs."
+    },
+    {
+        "question": "Do I need to sign up for Part A and B if I have TRICARE or CHAMPVA?",
+        "answer_snippet": "Yes, unless you're active-duty or a family member of one; CHAMPVA always requires both Part A and B."
+    },
+    {
+        "question": "Can Medicaid help with Medicare Part A and B costs?",
+        "answer_snippet": "Yes, through a Medicare Savings Program, your state may help pay premiums if you qualify."
+    },
+    {
+        "question": "How can I avoid paying a Medicare Part D late enrollment penalty?",
+        "answer_snippet": "Enroll when first eligible, maintain creditable drug coverage, and keep proof of it."
+    },
+    {
+        "question": "What is the Medicare Part D late enrollment penalty formula?",
+        "answer_snippet": "The penalty is 1% of the national base beneficiary premium ($36.78 in 2025) times the number of uncovered months."
+    },
+    {
+        "question": "What happens if I disagree with a Medicare drug coverage penalty?",
+        "answer_snippet": "You can request a review by submitting a reconsideration form within 60 days of the notice."
+    },
+    {
+        "question": "Does Medicare Part D cover insulin?",
+        "answer_snippet": "Yes, and plans can’t charge more than $35 for a one-month supply of each covered insulin product."
+    },
+    {
+        "question": "Can I automatically get prescription refills by mail under Medicare?",
+        "answer_snippet": "Some plans offer voluntary auto-ship programs for prescription drugs."
+    },
+    {
+        "question": "What is Medication Therapy Management under Part D?",
+        "answer_snippet": "It’s a free service for qualifying members to help manage and understand their medications safely."
+    },
+    {
+        "question": "What are common Medicare drug plan coverage rules?",
+        "answer_snippet": "They include prior authorization, quantity limits, step therapy, and opioid safety checks."
+    },
+    {
+        "question": "How does Medicare handle opioid safety?",
+        "answer_snippet": "Plans check prescriptions for safety risks and may require limited supply, especially if multiple providers are involved."
+    },
+    {
+        "question": "What should I know about creditable drug coverage and employer plans?",
+        "answer_snippet": "Keep annual notices from your employer or union about whether their drug coverage is creditable to avoid penalties."
+    },
+    {
+        "question": "Does COBRA count as creditable drug coverage?",
+        "answer_snippet": "It may count, but Medicare may still pay first. You get a Special Enrollment Period when COBRA ends."
+    },
+    {
+        "question": "Can I keep drug coverage through an old Medigap policy?",
+        "answer_snippet": "Yes, but most are not creditable, and you may pay more if you join Part D later."
+    },
+    {
+        "question": "Is the Federal Employee Health Benefits Program considered creditable coverage?",
+        "answer_snippet": "Yes, FEHB coverage usually includes creditable drug coverage, so enrolling in Medicare Part D isn’t required."
+    },
+    {
+        "question": "What is the Postal Service Health Benefits Program?",
+        "answer_snippet": "A new program for Postal Service employees and retirees that replaces FEHB and includes creditable drug coverage."
+    }
+]

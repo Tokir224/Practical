@@ -1,0 +1,13 @@
+langchain
+sentence-transformers
+fastapi
+uvicorn
+python-multipart
+langchain_groq
+langchain_huggingface
+langchain_community
+pandas
+matplotlib
+PyPDF2
+accelerate
+rank_bm25
