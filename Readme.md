@@ -82,3 +82,11 @@ pip install "numpy<2.0"
 2. Create an account or sign in
 3. Generate an API key
 4. Add it to your `.env` file
+
+## What’s Left for Improvement
+
+Due to time constraints, I could not fully integrate:
+- **Section-aware chunking**: To align chunks with headings and topics for better semantic coherence.
+- **Sentence-level splitting**: For more natural context blocks.
+- **Higher-performance embedding models**: (e.g., BGE or Instructor models).
+- **Contextual compression**: To reduce irrelevant context in final answers.
